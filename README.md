@@ -3,7 +3,9 @@
 This project is a simple backend to optimize the sales process in a pharmacy, drugstore, etc. in the health sector. The project structure is made so that it can be scalable, therefore it is based on the hexagonal architecture.
 
 ## Requeriments
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to make use of packages in Django.
+- [pip](https://pip.pypa.io/en/stable/)
+- [python](https://www.python.org/downloads)
+- [Docker](https://www.docker.com)
 
 ## Virtual Environment
 
