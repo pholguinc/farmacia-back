@@ -4,7 +4,7 @@ This project is a simple backend to optimize the sales process in a pharmacy, dr
 
 ## Requeriments
 - [pip](https://pip.pypa.io/en/stable/)
-- [python](https://www.python.org/downloads)
+- [Python](https://www.python.org/downloads)
 - [Docker](https://www.docker.com)
 
 ## Virtual Environment
